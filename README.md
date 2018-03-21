@@ -6,7 +6,7 @@ Kidsway va de la mano con Abrazo de seguridad que es una Landing-page que promue
 
 ## Mapa de empatía
 
-![Mapa de empatía](assets/images/mapa de empatía.jpg "mapa de empatía").
+![Mapa de empatía](assets/images/mapa-de-empatía.jpg "mapa de empatía").
 
 ## Encuesta (Research Cuantitativo)
 
