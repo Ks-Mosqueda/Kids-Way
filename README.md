@@ -63,5 +63,7 @@ Gracias a los resultados brindados por estas herramientas tomamos decisiones imp
 ### Integrantes
 
 ** Dení Morales **
+
 ** Karina Mosqueda **
+
 ** Ruby Scarlett Eligio **
