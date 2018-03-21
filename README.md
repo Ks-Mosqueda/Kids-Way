@@ -1,14 +1,21 @@
+
 # KIDSWAY
-Kidsway es una plataforma de renta de asientos de seguridad para niños especialmente diseñados para ser instalados en los autobuses.
+Kidsway es un movimiento con perspectiva de negocio. Se divide en dos partes la primera es una plataforma de renta de asientos de seguridad para niños especialmente diseñados para ser instalados en los autobuses.
 
 
 Kidsway va de la mano con Abrazo de seguridad que es una Landing-page que promueve un movimiento para defender el derecho de los niños a viajar seguros siempre.
 
-## Mapa de empatía
+## PROCESO DE DISEÑO
+
+
+### Mapa de empatía
+
+En conjunto creamos un mapa de empatía para generar nuestras primeras hipotésis sobre el journey del usuario
 
 ![Mapa de empatía](assets/images/mapa-de-empatía.jpg "mapa de empatía").
 
-## Encuesta (Research Cuantitativo)
+
+### Encuesta (Research Cuantitativo)
 
 
 El Squad realizó una lluvia de ideas para  encontrar los dolores comunes de los pasajeros al viajar de México a Cuernavaca. Dos de las integrantes son mamás y coincidian en la falta de elementos de seguridad especiales para niños. Basandonos en esta suposición realizamos un cuestionario:
@@ -17,7 +24,7 @@ El Squad realizó una lluvia de ideas para  encontrar los dolores comunes de los
 
 
 
-## Insigths
+### Insigths
 
 De los resultados de este cuestionario encontramos los siguientes *insigths*:
 
@@ -25,7 +32,7 @@ De los resultados de este cuestionario encontramos los siguientes *insigths*:
 * La mayor parte de los encuestados estarían dispuestos a pagar un costo extra para obtener medidas de seguridad adecuadas para sus hijos.
 * Muchos usuarios viajan con dos o más niños pequeños.
 
-## Acciones del usuario (Research Cualitativo)
+### Acciones del usuario (Research Cualitativo)
 
 Elaboramos una lista de los pasos a seguir por el usuario en la tarea de reservar nuestro servicio por medio de:
 
@@ -38,12 +45,18 @@ Elaboramos una lista de los pasos a seguir por el usuario en la tarea de reserva
 * ##### Reserva en página web y entrega en Kiosco
 ![journey kiosco](assets/images/reservaweb-entregakiosco.jpg "journey-kiosco")
 
-## LANDING PAGE
-En base a las necesidades expresadas por nuestros usuarios montamos una landing page titulada *"Abrazo de seguridad"* Donde promovemos una invitacion a unirse a nuestro movimiento en favor del derecho de los niños a viajar seguros
 
-![Cuestionario](assets/images/landing.jpg "cuestionario")
 
-Sobre esta landing implementanos herramientas como *Hotjar* y *Google Analitycs* que nos permitieron conocer el desempeño de la página y el nivel de conversiones logradas.
+### Landing Page
+
+
+Para introducirnos en la mente de nuestros usuarios montamos una landing page titulada *"Abrazo de seguridad"* Donde promovemos una invitacion a unirse a nuestro movimiento en favor del derecho de los niños a viajar seguros.
+
+El objetivo es hacer conscientes a los usuarios de la urgencia de cubrir esta necesidad en los viajes en autobús para posteriormente ofrecerles una solución (renta de asientos de seguridad) a través de Kidsway.
+
+![Landing](assets/images/landing.jpg "landing")
+
+Sobre esta landing implementamos herramientas como *Hotjar* y *Google Analitycs* que nos permitieron conocer el desempeño de la página y el nivel de conversiones logradas.
 
 
 ![Insigths](assets/images/KidsWay01.jpg "Insigths")
@@ -62,8 +75,8 @@ Gracias a los resultados brindados por estas herramientas tomamos decisiones imp
 
 ### Integrantes
 
-** Dení Morales **
+**Dení Morales**
 
-** Karina Mosqueda **
+**Karina Mosqueda**
 
-** Ruby Scarlett Eligio **
+**Ruby Scarlett Eligio**
