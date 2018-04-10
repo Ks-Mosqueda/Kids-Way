@@ -59,7 +59,7 @@ Para introducirnos en la mente de nuestros usuarios montamos una landing page ti
 
 El objetivo es hacer conscientes a los usuarios de la urgencia de cubrir esta necesidad en los viajes en autobús para posteriormente ofrecerles una solución (renta de asientos de seguridad) a través de Kidsway.
 
-![Landing](assets/images/landing.jpg "landing")
+![Landing](assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46.png "landing")
 
 Sobre esta landing implementamos herramientas como *Hotjar* y *Google Analitycs* que nos permitieron conocer el desempeño de la página y el nivel de conversiones logradas.
 
