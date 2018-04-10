@@ -1,9 +1,10 @@
 
 # KIDSWAY
-Kidsway es un movimiento con perspectiva de negocio. Se divide en dos partes la primera es una plataforma de renta de asientos de seguridad para niños especialmente diseñados para ser instalados en los autobuses.
+
+## Kidsway es un movimiento con perspectiva de negocio. Se divide en dos partes la primera es una plataforma de renta de asientos de seguridad para niños especialmente diseñados para ser instalados en los autobuses.
 
 
-Kidsway va de la mano con Abrazo de seguridad que es una Landing-page que promueve un movimiento para defender el derecho de los niños a viajar seguros siempre.
+## Kidsway va de la mano con Abrazo de seguridad que es una Landing-page que promueve un movimiento para defender el derecho de los niños a viajar seguros siempre.
 
 ![vista-previa](https://user-images.githubusercontent.com/32865535/38582961-232c9bda-3cd7-11e8-9bd8-3af37a734afe.jpg)
 
