@@ -5,7 +5,7 @@ Kidsway es un movimiento con perspectiva de negocio. Se divide en dos partes la 
 
 Kidsway va de la mano con Abrazo de seguridad que es una Landing-page que promueve un movimiento para defender el derecho de los niños a viajar seguros siempre.
 
-![landing01](https://user-images.githubusercontent.com/32865535/38528521-acd6fc0c-3c25-11e8-9e6c-0184fea10952.jpg)
+![vista-previa](https://user-images.githubusercontent.com/32865535/38582961-232c9bda-3cd7-11e8-9bd8-3af37a734afe.jpg)
 
 ### Empresa para la que fue creado el proyecto: Pullman de Morelos
 
